@@ -1,5 +1,4 @@
 "# DiChoThueSpringBE" 
 
 # Đổi config
-  Vào file /src/main/resources/application.properties
-    Thay đổi **spring.datasource.username là login** và **spring.datasource.password và password** của SQL Server Authentication
+  Vào file /src/main/resources/application.properties thay đổi **spring.datasource.username là login** và **spring.datasource.password là password** của SQL Server Authentication
